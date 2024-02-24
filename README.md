@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- #### 🚀 Tecnologias e Ferramentas
+
 ![Visitantes do Perfil](https://visitor-badge.laobi.icu/badge?page_id=lucianoMonteiroM.lucianoMonteiroM)
